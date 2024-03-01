@@ -46,7 +46,7 @@ We had an error with clustering that took a while to fix. It was also difficult 
 #
 
 ### Notes for the code
-If you wanna run the streamlit app, use the app.py, this will take you to the website where you can acces the page Mp4, it is in there you can see the decision tree and predict attrition. please use the cleanedattrition.csv for the streamlit application when choosing a file. The "main" part of our code is the file called MP4.ipynb
+If you wanna run the streamlit app, use the app.py, this will take you to the website where you can acces the page Mp4, it is in there you can see the decision tree and predict attrition. please use the cleanedattrition.csv for the streamlit application when choosing a file. The "main" part of our code is the file called MP4.ipynb. Before predicting any attrition in the streamlit app, it will give an error saying answer is not defined, this is fixed by pressing the button predict.
 
 Tobias Carlsen - cph-tc183@cphbusiness.dk
 
