@@ -1,7 +1,8 @@
 # Mini-Project-4
 
 ### - Which machine learning methods did you choose to apply in the application?
-After trying both learning methods, we found one to have a higher accuracy, with a difference of 22%
+For classification we chose to use a decision tree, and a Naice Bayes. We found one to have a higher accuracy, with a difference of 22%\
+For Clustering we used a K-Means model.
 We chose to use the Decision Tree learning method for our machine learning due to this. 
 
 ### - How accurate is your solution of prediction?
@@ -19,6 +20,8 @@ F1 score:  0.2909090909090909
 
 Difference of accuracy = 0.2244897959
 
+### K-Means:
+Silhouette Score: 0.564
 
 ### - Which are the most decisive factors for quitting a job?
 Attrition, Age, OverTime, JobLevel, MaritalStatus,	MonthlyIncome,	StockOptionLevel,	TotalWorkingYears,	YearsAtCompany,	YearsInCurrentRole,	YearsWithCurrManager
