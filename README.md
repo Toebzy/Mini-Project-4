@@ -41,9 +41,12 @@ According to correlation, there does not seem to be an influence between the two
 We took the average job satisfaction for education levels, and they seems somewhat equal, with no significant outlier. 
 
 ### - Which were the challenges in the project development?
-We had an error with clustering that took a while to fix. It was also difficult to figure streamlit out. 
+We had an error with clustering that took a while to fix. It was also difficult to figure streamlit out.
 
 #
+
+### Notes for the code
+If you wanna run the streamlit app, use the app.py, this will take you to the website where you can acces the page Mp4, it is in there you can see the decision tree and predict attrition. please use the cleanedattrition.csv for the streamlit application when choosing a file. The "main" part of our code is the file called MP4.ipynb
 
 Tobias Carlsen - cph-tc183@cphbusiness.dk
 
