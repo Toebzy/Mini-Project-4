@@ -2,8 +2,8 @@
 
 ### - Which machine learning methods did you choose to apply in the application?
 For classification we chose to use a decision tree, and a Naice Bayes. We found one to have a higher accuracy, with a difference of 22%\
-For Clustering we used a K-Means model.
-We chose to use the Decision Tree learning method for our machine learning due to this. 
+For Clustering we used a K-Means model.\
+We got the best results using the Decision Tree learning method. 
 
 ### - How accurate is your solution of prediction?
 
